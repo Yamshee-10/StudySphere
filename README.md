@@ -1,0 +1,1 @@
+The StudySphere Dashboard is a basic front-end web project designed to showcase the features of a study app. Built using HTML and CSS, this dashboard serves as the central hub of a study app, displaying key information, tools and feedback from the differnt kind of users of the app.
